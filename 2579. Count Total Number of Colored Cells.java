@@ -7,3 +7,7 @@ class Solution {
         return output;
     }
 }
+
+94 / 94 test cases passed.
+Status: Accepted
+Runtime: 3 ms
